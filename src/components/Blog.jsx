@@ -9,7 +9,7 @@ class Blog extends Component{
         return (
             <Container style={{ marginTop: '50px' }}>
             <Row>
-                <Col><h1> <Badge color="primary">Resume</Badge></h1></Col>
+                <Col><h1> <Badge color="">SAM SEGAL</Badge></h1></Col>
             </Row>
 
             <Row md="12" style={{ marginTop: '20px' }}>

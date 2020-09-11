@@ -43,17 +43,11 @@ export default class Example extends React.Component {
                 <Link to="/resume" style={{color:'white', textDecoration:'none'}}><strong><i className="fa fa-file"/> RESUME</strong></Link>
               </NavItem>
               
-              <NavItem style={styles}>
-                <Link to="/portfolio" style={{color:'white', textDecoration:'none'}}><strong><i className="fa fa-portrait"/> PORTFOLIO</strong></Link>
-              </NavItem>
               
-              <NavItem style={styles}>
-                <Link to="/blog" style={{color:'white', textDecoration:'none'}}><strong><i className="fa fa-blog"/> BLOG</strong></Link>
-              </NavItem>
+              
+              
 
-              <NavItem style={styles}>
-                <Link to="/contactus" style={{color:'white', textDecoration:'none'}}><strong><i className="fa fa-paper-plane" /> CONTACT US</strong></Link>
-              </NavItem>
+              
             </Nav>
           </Collapse>
         </Navbar>

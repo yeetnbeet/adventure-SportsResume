@@ -5,16 +5,16 @@ class Acadmic extends Component {
 
     acadmice = [{
         acadmic : {
-            date1 : '2015 - 2017',
-            heading1 : 'ADP WITH COMPUTER SCIENCE',
-            paragraph1 : 'Computer Programming',
-            paragraph2 : 'Superior University',
+            date1 : '2015 - 2019',
+            heading1 : 'BS GEOLOGY',
+            paragraph1 : 'remote sensing',
+            paragraph2 : 'University of New Hampshire',
             paragraph3 : 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nibh augue, suscipit a, scelerisque sed, lacinia in, mi. Cras vel lorem. Etiam pellentesque aliquet tellus. Phasellus pharetra nulla ac diam (...) ',
 
-            date2 : '2017 - 2019',
-            heading2 : 'MSCIT INFORMATION TECHNOLOGY',
-            paragraph4 : 'DEEP LEARNING',
-            paragraph5 : 'University Of Education',
+            date2 : 'present',
+            heading2 : 'Distributed Systems/Cloud Computing',
+            paragraph4 : 'MOOC',
+            paragraph5 : 'University Of Illinois',
             paragraph6 : 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nibh augue, suscipit a, scelerisque sed, lacinia in, mi. Cras vel lorem. Etiam pellentesque aliquet tellus. Phasellus pharetra nulla ac diam (...) ',
             
         }

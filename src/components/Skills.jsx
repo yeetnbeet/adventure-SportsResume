@@ -8,7 +8,9 @@ class Skills extends Component {
             one: 'HTML5',
             two: 'CSS3',
             three: 'JavaScript',
-            four: 'React Js'
+            four: 'React Js',
+            five: 'C++',
+            
         }
     }];
 
@@ -100,6 +102,28 @@ class Skills extends Component {
 
                         <br/>
 
+                        <Row sm="12">
+                            <Col sm="4">
+                                <p><i className="fas fa-plus fas1" onClick={this.toggle}/> {obj.skill.five}</p>
+                            </Col>
+                            <Col sm="8">
+                               <Progress striped color="info" value={65} />
+                            </Col>
+
+                            <Collapse isOpen={this.state.collapse}>
+                              <Card>
+                                 <CardBody>
+                                    Anim pariatur cliche reprehenderit,
+                                    enim eiusmod high life accusamus terry richardson ad squid. Nihil
+                                    anim keffiyeh helvetica, craft beer labore wes anderson cred
+                                    nesciunt sapiente ea proident.
+                                  </CardBody>
+                               </Card>
+                            </Collapse>
+                        </Row>
+
+                        <br/>
+
                         <Row sm="12" style={{marginBottom:'50px'}}>
                             <Col sm="4">
                                 <p><i className="fas fa-plus fas1" onClick={this.toggle}/> {obj.skill.four}</p>
@@ -119,6 +143,7 @@ class Skills extends Component {
                                </Card>
                             </Collapse>
                         </Row>
+                        
                     </Container>
                 </div>
             )

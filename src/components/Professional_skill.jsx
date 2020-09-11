@@ -5,16 +5,16 @@ class Professional extends Component {
 
     professional = [{
         detail : {
-            date1 : '2015 - 2017',
-            heading1 : 'HTML5 AND CSS3 DEVELOPER',
-            paragraph1 : 'Market Network',
-            paragraph2 : 'San Francisco, California, USA',
+            date1 : '2014 - 2019',
+            heading1 : 'Lead Tour Guide',
+            paragraph1 : 'Portsmouth Paddle Co',
+            paragraph2 : 'Portsmouth, NH , USA',
             paragraph3 : 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nibh augue, suscipit a, scelerisque sed, lacinia in, mi. Cras vel lorem. Etiam pellentesque aliquet tellus. Phasellus pharetra nulla ac diam (...) ',
 
             date2 : '2017 - 2019',
-            heading2 : 'ANGULAR AND REACT DEVELOPER',
-            paragraph4 : 'Market Network',
-            paragraph5 : 'San Francisco, California, USA',
+            heading2 : 'Glacial Geology Lab',
+            paragraph4 : 'University of New Hampshire',
+            paragraph5 : 'Durham, NH, USA',
             paragraph6 : 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nibh augue, suscipit a, scelerisque sed, lacinia in, mi. Cras vel lorem. Etiam pellentesque aliquet tellus. Phasellus pharetra nulla ac diam (...) ',
             
         }
